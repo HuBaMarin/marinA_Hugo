@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentación Markdown on site</title>
-    <link>https://hubamarin.github.io/doc_md/index.html</link>
+    <link>https://hubamarin.github.io/marinA_Hugo/doc_md/index.html</link>
     <description>Recent content in Documentación Markdown on site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Sep 2023 11:11:55 +0200</lastBuildDate><atom:link href="https://hubamarin.github.io/doc_md/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 11:11:55 +0200</lastBuildDate><atom:link href="https://hubamarin.github.io/marinA_Hugo/doc_md/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shortcodes</title>
-      <link>https://hubamarin.github.io/doc_md/shortcodes/index.html</link>
+      <link>https://hubamarin.github.io/marinA_Hugo/doc_md/shortcodes/index.html</link>
       <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
-      <guid>https://hubamarin.github.io/doc_md/shortcodes/index.html</guid>
+      <guid>https://hubamarin.github.io/marinA_Hugo/doc_md/shortcodes/index.html</guid>
       <description>Shortcode de Relearn veremos todos los shortcodes</description>
     </item>
   </channel>

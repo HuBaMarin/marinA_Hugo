@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Desarrollo Web en Entorno Servidor on site</title>
-    <link>https://hubamarin.github.io/desarrollo-web-entorno-servidor/index.html</link>
+    <link>https://hubamarin.github.io/marinA_Hugo/desarrollo-web-entorno-servidor/index.html</link>
     <description>Recent content in Desarrollo Web en Entorno Servidor on site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Sep 2023 11:11:55 +0200</lastBuildDate><atom:link href="https://hubamarin.github.io/desarrollo-web-entorno-servidor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 11:11:55 +0200</lastBuildDate><atom:link href="https://hubamarin.github.io/marinA_Hugo/desarrollo-web-entorno-servidor/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
