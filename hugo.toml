@@ -1,5 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hubamarin.github.io/'
 languageCode = 'en-US'
 title = 'site'
 theme = 'relearn'
-
