@@ -1,0 +1,26 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'site'
+theme = 'relearn'
+defaultContentLanguaje = "es"
+
+[params]
+    texto= "textotextotexto"
+    themeVariant = ["relearn-dark", "relearn-bright"]
+[markup.goldmark.renderer]
+    unsafe = true
+[[menu.shortcuts]]
+name = "test1"
+url = "https://google.com"
+weight = 10
+[[menu.shortcuts]]
+name = "test2"
+url = "https://php.net"
+weight = 20
+[[menu.shortcuts]]
+name = "tes3"
+url = "https://bing.com"
+weight = 30
+
+
+
