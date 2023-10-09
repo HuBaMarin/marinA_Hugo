@@ -1,4 +1,4 @@
-baseURL = 'https://hubamarin.github.io/'
+baseURL = 'https://hubamarin.github.io/marinA_Hugo'
 languageCode = 'en-US'
 title = 'site'
 theme = 'relearn'
