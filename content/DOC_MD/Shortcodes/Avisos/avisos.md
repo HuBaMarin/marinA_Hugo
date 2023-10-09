@@ -3,16 +3,15 @@ title = 'Avisos'
 date = 2023-09-19T11:11:55+02:00
 draft = false
 +++
-Todos los avisos pueden contener un titulo y un ícono. 
+<!--Todos los avisos pueden contener un titulo y un ícono. 
 
 {{% notice style="primary" title="There may be pirates" icon="skull-crossbones" %}}
 It is all about the boxes.
-{{% /notice %}}
+{{% /notice %}}-->
 
 
 
-
-{{% notice style="primary" %}}
+<!--{{% notice style="primary" %}}
 Un **aviso**
 {{< /notice >}}
 
@@ -58,4 +57,4 @@ Por color, ícono o título personalizado
 
 {{% notice color="fuchsia" title="**Hugo**" icon="fab fa-hackerrank" %}}
 Victor? Is it you?
-{{% /notice %}}
+{{% /notice %}}-->
