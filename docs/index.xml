@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>site</title>
+    <link>https://hubamarin.github.io/index.html</link>
+    <description>Recent content on site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Sep 2023 11:11:55 +0200</lastBuildDate><atom:link href="https://hubamarin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentación Markdown</title>
+      <link>https://hubamarin.github.io/doc_md/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/index.html</guid>
+      <description>Este es un título Este es otro un poco mas pequeño Cabecera 4 Cabecera 5 Cabecera 6 Otra manera es debajo del texto, poner = carácteres para el tipo 1 de cabecera o &amp;ndash; caracteres para la cabecera 2
+Cabecera 1 Cabecera 2 Texto en negrita Clase de desarrollo web en entorno servidor
+Texto en itálica Texto en itálica
+Este texto de debajo está en negrita e itálica Texto en negrita e itálica</description>
+    </item>
+    <item>
+      <title>ejemplo</title>
+      <link>https://hubamarin.github.io/a/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/a/index.html</guid>
+      <description>Texto de ejemplo {{.Site.Data.hola}}</description>
+    </item>
+    <item>
+      <title>Desarrollo Web en Entorno Cliente</title>
+      <link>https://hubamarin.github.io/desarrolo-web-entorno-cliente/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/desarrolo-web-entorno-cliente/index.html</guid>
+      <description>Este es un contenido del ciclo de 2º de DAW En este apartado se han visualizado págins web y se han analizado según el diseño y el uso de las mismas.</description>
+    </item>
+    <item>
+      <title>Desarrollo Web en Entorno Servidor</title>
+      <link>https://hubamarin.github.io/desarrollo-web-entorno-servidor/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/desarrollo-web-entorno-servidor/index.html</guid>
+      <description>Este es un contenido del ciclo de 2º de DAW En él se ha enseñado a cómo trabajar sitios estáticos en local.</description>
+    </item>
+    <item>
+      <title>Empresa e iniciativa Emprendedora</title>
+      <link>https://hubamarin.github.io/empresa-e-iniciativa-emprendedora/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/empresa-e-iniciativa-emprendedora/index.html</guid>
+      <description>Este es un contenido del ciclo de 2º de DAW En este módulo se han tratado diversas maneras de establecer vías a la hora de emprender y se han explicado las diferencias entre los tipos de trabajadores.</description>
+    </item>
+    <item>
+      <title>Interfaces Web</title>
+      <link>https://hubamarin.github.io/interfaces-web/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/interfaces-web/index.html</guid>
+      <description>Este es un contenido del ciclo de 2º de DAW En este módulo se han tratado las diversas maneras de estudiar ipv4.</description>
+    </item>
+    <item>
+      <title>OTROSes</title>
+      <link>https://hubamarin.github.io/otros/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hubamarin.github.io/otros/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

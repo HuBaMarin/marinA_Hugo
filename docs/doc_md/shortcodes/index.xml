@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shortcodes on site</title>
+    <link>https://hubamarin.github.io/doc_md/shortcodes/index.html</link>
+    <description>Recent content in Shortcodes on site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Sep 2023 11:11:55 +0200</lastBuildDate><atom:link href="https://hubamarin.github.io/doc_md/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>parámetros de sitio</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/siteparams/stp/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/siteparams/stp/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pestaña</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/pesta%C3%B1as/pst/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/pesta%C3%B1as/pst/index.html</guid>
+      <description> &amp;#8203; a Hola texto
+printf(&amp;#34;hello&amp;#34;); </description>
+    </item>
+    <item>
+      <title>Pestañas</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/pesta%C3%B1as/ps/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/pesta%C3%B1as/ps/index.html</guid>
+      <description> Hola py sh print(&amp;#34;Hello World!&amp;#34;) echo &amp;#34;Hello World!&amp;#34; </description>
+    </item>
+    <item>
+      <title>Avisos</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/avisos/avisos/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/avisos/avisos/index.html</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Botón</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/bot%C3%B3n/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/bot%C3%B3n/index.html</guid>
+      <description>Botones</description>
+    </item>
+    <item>
+      <title>Comentarios</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/comentarios/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/comentarios/index.html</guid>
+      <description>Comentarios [ comentario ] : &amp;lt;&amp;gt; (Comentario en el código) // : &amp;lt;&amp;gt; (Otro comentario.)</description>
+    </item>
+    <item>
+      <title>Descargas</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/descargas/descargas.files/descargas/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/descargas/descargas.files/descargas/index.html</guid>
+      <description>las descargas han de colocarse en el mismo directorio con una carpeta con el mismo nombre que el archivo .md
+qwreqwr</description>
+    </item>
+    <item>
+      <title>Destacar</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/destacar/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/destacar/index.html</guid>
+      <description>Marcado
+&amp;#8203; python 1 2 3 4 print(&amp;#34;Hello World!&amp;#34;)ejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemplo ejemploejemploejemploejemploejemploejemploejemploejemploejemplo koejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemplo nubejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemploejemplo </description>
+    </item>
+    <item>
+      <title>Diagramas</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/mermaid/mermaid/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/mermaid/mermaid/index.html</guid>
+      <description>graph LR; While --&amp;gt; Then graph LR; If --&amp;gt; Then Then --&amp;gt;Else Diagrama
+--- title: Ejemplo --- graph LR; A[Única Opción] --&amp;gt; C{&amp;lt;strong&amp;gt;Decisión&amp;lt;/strong&amp;gt;} C --&amp;gt;|Uno| D[Primer Resultado] C --&amp;gt;|Dos| E[Segundo Resultado] Diagrama de sequencias
+%%{init:{&amp;#34;fontFamily&amp;#34;:&amp;#34;Times New Roman&amp;#34;, &amp;#34;sequence&amp;#34;:{&amp;#34;showSequenceNumbers&amp;#34;:true}}}%% sequenceDiagram Alice-&amp;gt;&amp;gt;John: Hola, como te llamas? Note right of John: Ejemplo John--&amp;gt;&amp;gt;Alice: John! John-&amp;gt;&amp;gt;Bob: Cómo estas? Bob--&amp;gt;&amp;gt;John: Bien! Diagrama de clases
+classDiagram Animal &amp;lt;|-- Persona Animal &amp;lt;|-- Pescado Animal &amp;lt;|-- Tigre Animal : &amp;#43;int anios Animal : &amp;#43;String género Animal: &amp;#43;esMamífero() class Persona{ &amp;#43;String dni &amp;#43;nadar() &amp;#43;correr() &amp;#43;hablar() } class Paloma{ -int tamanio -viva() } class Tigre{ &amp;#43;bool salvaje &amp;#43;correr() }Diagrama de estado</description>
+    </item>
+    <item>
+      <title>Iconos</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/iconos/iconos/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/iconos/iconos/index.html</guid>
+      <description>Se pueden mostrar Iconos de Font Awesome
+un texto </description>
+    </item>
+    <item>
+      <title>Insignias</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/insignias/insig/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/insignias/insig/index.html</guid>
+      <description>Las insignias
+Importante Versión6.6.6 Recorcholis InfoTexto Hola</description>
+    </item>
+    <item>
+      <title>Matemáticas</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/matem%C3%A1ticas/mates/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/matem%C3%A1ticas/mates/index.html</guid>
+      <description>Se puede usar para dar formato a fórmulas matemáticas
+$$\frac{(5^{2})(2*\sqrt{4})}{6}$$ </description>
+    </item>
+    <item>
+      <title>Titulos</title>
+      <link>https://hubamarin.github.io/doc_md/shortcodes/expandir/titulo/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/doc_md/shortcodes/expandir/titulo/index.html</guid>
+      <description>Con esta etiqueta se puede mostrar un título expandible o plegable Extiénde el título Texto a expandir </description>
+    </item>
+  </channel>
+</rss>
