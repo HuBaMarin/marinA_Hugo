@@ -7,3 +7,7 @@ layout : hola
 ---
 
 Texto de ejemplo
+{{.Title}}
+
+{{$var}}
+
