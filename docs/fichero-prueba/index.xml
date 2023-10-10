@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FICHERO PRUEBAs on site</title>
+    <link>https://hubamarin.github.io/marinA_Hugo/fichero-prueba/index.html</link>
+    <description>Recent content in FICHERO PRUEBAs on site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 19 Sep 2023 11:11:55 +0200</lastBuildDate><atom:link href="https://hubamarin.github.io/marinA_Hugo/fichero-prueba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cositas</title>
+      <link>https://hubamarin.github.io/marinA_Hugo/fichero-prueba/a/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/marinA_Hugo/fichero-prueba/a/index.html</guid>
+      <description>Texto de ejemplo {{.Title}}
+{{$var}}</description>
+    </item>
+  </channel>
+</rss>

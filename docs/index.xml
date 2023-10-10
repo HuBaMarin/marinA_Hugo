@@ -8,13 +8,6 @@
     <language>en-US</language>
     <lastBuildDate>Tue, 19 Sep 2023 11:11:55 +0200</lastBuildDate><atom:link href="https://hubamarin.github.io/marinA_Hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cositas</title>
-      <link>https://hubamarin.github.io/marinA_Hugo/a/index.html</link>
-      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
-      <guid>https://hubamarin.github.io/marinA_Hugo/a/index.html</guid>
-      <description>Texto de ejemplo</description>
-    </item>
-    <item>
       <title>Documentación Markdown</title>
       <link>https://hubamarin.github.io/marinA_Hugo/doc_md/index.html</link>
       <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
@@ -44,6 +37,13 @@ Este texto de debajo está en negrita e itálica Texto en negrita e itálica</de
       <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
       <guid>https://hubamarin.github.io/marinA_Hugo/empresa-e-iniciativa-emprendedora/index.html</guid>
       <description>Este es un contenido del ciclo de 2º de DAW En este módulo se han tratado diversas maneras de establecer vías a la hora de emprender y se han explicado las diferencias entre los tipos de trabajadores.</description>
+    </item>
+    <item>
+      <title>FICHERO PRUEBAs</title>
+      <link>https://hubamarin.github.io/marinA_Hugo/fichero-prueba/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
+      <guid>https://hubamarin.github.io/marinA_Hugo/fichero-prueba/index.html</guid>
+      <description></description>
     </item>
     <item>
       <title>Interfaces Web</title>
