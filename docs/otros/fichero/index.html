@@ -5,17 +5,20 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Esto es un ejemplo de plantilla</h1>
-<h2>aquí el título del fichero md en el frontmatter</h2>
+<h1>Cositas de ejemplo</h1>
+<h2>titulo h2 </h2>
 <hr>
-<span style="color:red">Plantillas</span>
+<span style="color:rgb(106, 255, 0)">Plantillas</span>
 <hr>
 
 <h3>Declaro y luego visualizo una variable</h3>
-
+{{ $variable:= "ejemplo de variable" }}
 <h2>Valor de variable $nombre</h2>
+{{ $varia2:= "otro texto" }}
 <hr>
-<span style="color:red">pepe</span>
+<span style="color:rgb(30, 0, 255)">{{ $variable }}</span>
+
+<span style="color: aqua;">{{ $varia2 }}</span>
 <hr>
 </body>
 </html>
