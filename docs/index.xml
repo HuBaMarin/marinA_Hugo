@@ -22,7 +22,7 @@ Este texto de debajo está en negrita e itálica Texto en negrita e itálica</de
       <link>https://hubamarin.github.io/marinA_Hugo/a/index.html</link>
       <pubDate>Tue, 19 Sep 2023 11:11:55 +0200</pubDate>
       <guid>https://hubamarin.github.io/marinA_Hugo/a/index.html</guid>
-      <description>Texto de ejemplo {{.Site.Data.hola}}</description>
+      <description>Texto de ejemplo</description>
     </item>
     <item>
       <title>Desarrollo Web en Entorno Cliente</title>

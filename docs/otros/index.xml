@@ -11,7 +11,7 @@
       <link>https://hubamarin.github.io/marinA_Hugo/otros/fichero/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hubamarin.github.io/marinA_Hugo/otros/fichero/index.html</guid>
-      <description>Uso de una plantilla En esta página veremos el uso de una plantilla fr Hola, ejemplo</description>
+      <description>Uso de una plantilla hola {{ $nombre }} {{ $varia2 }}</description>
     </item>
   </channel>
 </rss>
